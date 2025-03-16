@@ -11,7 +11,7 @@ import P7 from './Personality/Summoner-mage.png';
 import P8 from './Personality/Warior-Gril.png';
 import P9 from './Personality/Summoner Warior.png';
 import W1 from './Personality/MagicDragonBird.png';
-import worldData from '/ZERO/public/Data/World.json';
+import worldData from '/public/Data/World.json';
 
 export default function Home() {
   const [showAll, setShowAll] = useState(false);
