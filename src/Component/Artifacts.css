@@ -181,3 +181,26 @@ button{
     50% { transform: translateY(-10px); }
     100% { transform: translateY(0); }
   }
+
+@media (max-width: 600px) {
+    .All{
+        width: 100%;
+        grid-template-columns: repeat(1, 300px); /* 3 ta ustun */
+        height: auto;
+    }
+    .ArtifactsAboughtlv1-200,
+    .ArtifactsAboughtlv200-500,
+    .ArtifactsAboughtlv500-999 {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+        gap: 15px;
+        margin: auto;
+        width: 300px;
+        max-width: 100%;
+        padding-bottom: 20px;
+    }
+    #Nomi{
+        font-size: 20px;
+        margin: 0px 0px 0px 0px;
+    }
+}

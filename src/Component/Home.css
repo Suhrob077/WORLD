@@ -218,3 +218,108 @@
       transform: rotateY(360deg);
     }
   }
+
+@media (max-width:600px) {
+    #ABP{
+        width: 300px;
+    }
+    .Classes{
+        width: 50px;
+    }
+    .PersonClass1{
+        width: 100px;
+    }
+    .PersonClass2{
+        width: 50px;
+    }
+    .PersonClass3{
+        width: 50px;
+    }
+    .PersonClass4{
+        width: 50px;
+    }
+    .PersonClass5{
+        width: 50px;
+    }
+    .PersonClass6{
+        width: 50px;
+    }
+    .PersonClass7{
+        width: 100px;
+    }
+    .PersonClass8{
+        width: 40px;
+    }
+    .PersonalityPage{
+        height: 100px;
+    }
+    .Aperson{
+        padding-top: 50px;
+    }
+    .World-Name{
+        width: 150px;
+        font-size: 10px;
+        display: flex;
+        align-items: center;
+    }
+    .A-A-W h2{
+        font-size: 10px;
+        text-align: center;
+    }
+    .Kay-name{
+        width: 50px;
+        height: 50px;
+    }
+    .Biom-img{
+        width: 100px;
+        height: 100px;
+    }
+}
+
+@media (max-width: 800px) {
+    #ABP{
+        font-size: 15px;
+        width: 500px;
+    }
+    .Classes{
+        width: 70px;
+    }
+    .Classes img{
+        width: 80px;
+    }
+}
+@media (max-width:500px) {
+    #ABP{
+        width: 300px;
+    }
+    .Classes{
+        width: 50px;
+    }
+    .Classes img{
+        width: 30px;
+    }
+    .Classes img:hover{
+        transform: scale(1.8);
+    }
+    .Aperson{
+        padding-top: 50px;
+    }
+    .World-Name{
+        width: 150px;
+        font-size: 10px;
+        display: flex;
+        align-items: center;
+    }
+    .A-A-W h2{
+        font-size: 10px;
+        text-align: center;
+    }
+    .Kay-name{
+        width: 50px;
+        height: 50px;
+    }
+    .Biom-img{
+        width: 100px;
+        height: 100px;
+    }
+}

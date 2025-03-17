@@ -33,7 +33,7 @@ export default function Home() {
         </div>
         <div className='Aperson'>
           <h2>Z-World</h2>
-          <h2 id='ABP'>Ushbu Kalitlar Sizlarga Uzga tegishli Huduga Partal ochadi .U yerda siz buutunlay boshqa turdagi material , Maxluq , va Artifactlar Ucharish mumkin Kalitlrni esa topish Juda murakkab</h2>
+          <h2 id='ABP'>Ushbu Kalitlar 🔑Sizlarga nomalum ❔ Huduga Partal ochadi .U yerda siz buutunlay boshqa turdagi Material , Maxluq , va Artifactlar Ucharatishingiz mumkin 🎁. Kalitlrni esa topish Juda murakkab ❗❗❗</h2>
         </div>
       </div>
       <div className="Page2">
