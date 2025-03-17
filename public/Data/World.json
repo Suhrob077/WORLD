@@ -1,0 +1,83 @@
+[
+    {
+        "id" : "1",
+        "Boss":"Unknown",
+        "drop": "20%-50%",
+        "Name": "Lava Biom",
+        "img-biom": "/public/IMGS/Wolrd/Lava.jpg",
+        "img-Kay": "/public/IMGS/World-KAY/Lava-Kay.png"
+    },
+    {
+        "id" : "2",
+        "Boss":"Unknown",
+        "drop": "20%-50%",
+        "Name": "Ice Place",
+        "img-biom": "/public/IMGS/Wolrd/Ice-Plase.jpg",
+        "img-Kay": "/public/IMGS/World-Kay/Ice-Kay.png"
+    },
+    {
+        "id" : "3",
+        "Boss":"Unknown",
+        "drop": "20%-35%",
+        "Name": "Magic World",
+        "img-biom": "/public/IMGS/Wolrd/Magic.jpg",
+        "img-Kay": "/public/IMGS/World-KAY/Magic-Kay.png"
+    },
+    {
+        "id" : "4",
+        "Boss":"Unknown",
+        "drop": "10%-30%",
+        "Name": "Light Gate",
+        "img-biom": "/public/IMGS/Wolrd/Light-Forest.jpg",
+        "img-Kay": "/public/IMGS/World-KAY/Light-Kay.png"
+    },
+    {
+        "id" : "5",
+        "Boss":"Unknown",
+        "drop": "10%-40%",
+        "Name": "Lunar Gate",
+        "img-biom": "/public/IMGS/Wolrd/Lunar.jpg",
+        "img-Kay": "/public/IMGS/World-KAY/Lunar-Kay.png"
+    },
+    {
+        "id" : "6",
+        "Boss":"Unknown",
+        "drop": "10%-30%",
+        "Name": "Jungle",
+        "img-biom": "/public/IMGS/Wolrd/Jungle.jpg",
+        "img-Kay": "/public/IMGS/World-KAY/Forest-Kay.png"
+    },
+    {
+        "id" : "7",
+        "Boss":"Unknown",
+        "drop": "10%-30%",
+        "Name": "Dark Forest",
+        "img-biom": "/public/IMGS/Wolrd/Darc-forest.jpg",
+        "img-Kay": "/public/IMGS/World-KAY/Cold-Kay.png"
+    },
+    {
+        "id" : "8",
+        "Boss":"Unknown",
+        "drop": "10%-40%",
+        "Name": "Magic Kay",
+        "img-biom": "/public/IMGS/Wolrd/Magic.jpg",
+        "img-Kay": "/public/IMGS/World-KAY/Magic-Kay.png"
+    },
+    {
+        "id" : "9",
+        "Boss":"Unknown",
+        "drop": "10%-30%",
+        "Name": "Unknown",
+        "img-biom": "/public/IMGS/Wolrd/Uncnown.jpg",
+        "img-Kay": "/public/IMGS/World-KAY/Uncnown-Kay.png"
+    },
+    {
+        "id" : "10",
+        "Boss":"Unknown",
+        "drop": "10%-30%",
+        "Name": "Unknown",
+        "img-biom": "/public/IMGS/Wolrd/Uncnown2.jpg",
+        "img-Kay": "/public/IMGS/World-KAY/Uncnown-Kay.png"
+    }
+    
+]

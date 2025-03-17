@@ -3,6 +3,7 @@ import './App.css'
 import './Component/Navbar'
 import Navbar from './Component/Navbar'
 import Artifacts from'./Component/Artifacts'
+import Home from './Component/Home'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -10,7 +11,7 @@ function App() {
   return (
     <>
       <Navbar></Navbar>
-      <Artifacts></Artifacts>
+      <Home></Home>
     </>
   )
 }

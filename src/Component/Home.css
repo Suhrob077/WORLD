@@ -1,0 +1,220 @@
+.HomeP{
+    width: 100%;
+    height: auto;
+    padding-bottom: 10px;
+}
+.PersonalityPage{
+    margin-top: 70px;
+    width: 100%;
+    background-color: black;
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+}
+.Classes{
+    animation: floatUP 3s infinite ease-in-out;
+    width: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+}
+.PersonClass1{
+    width: 250px;
+    position: relative;
+    transition: 1.2s;
+}
+.PersonClass1:hover{
+    padding-bottom: 50px;
+    scale: 1.2;
+    z-index: 5;
+}
+
+.PersonClass2{
+    width: 100px;
+    transition: 1.2s;
+}
+.PersonClass2:hover{
+    padding-bottom: 50px;
+    scale: 1.2;
+    z-index: 5;
+}
+.PersonClass3{
+    width: 110px;
+    transition: 1.2s;
+}
+.PersonClass3:hover{
+    padding-bottom: 50px;
+    scale: 1.2;
+    z-index: 5;
+}
+.PersonClass4{
+    width: 120px;
+    padding-bottom: 20px;
+    transition: 1.2s;
+}
+.PersonClass4:hover{
+    padding-bottom: 50px;
+    scale: 1.2;
+    z-index: 5;
+}
+.PersonClass5{
+    width: 140px;
+    transition: 1.2s;
+}
+.PersonClass5:hover{
+    padding-bottom: 50px;
+    scale: 1.2;
+    z-index: 5;
+}
+.PersonClass6{
+    width: 130px;
+    transition: 1.2s;
+}
+.PersonClass6:hover{
+    padding-bottom: 50px;
+    scale: 1.2;
+    z-index: 5;
+}
+.PersonClass7{
+    width: 250px;
+    transition: 1.2s;
+}
+.PersonClass7:hover{
+    padding-bottom: 50px;
+    scale: 1.2;
+    z-index: 5;
+}
+.PersonClass8{
+    width: 130px;
+    padding-bottom: 30px;
+    transition: 1.2s;
+}
+.PersonClass8:hover{
+    padding-bottom: 50px;
+    scale: 1.2;
+    z-index: 5;
+}
+/* .PersonClass9{
+    width: 130px;
+    padding-bottom: 30px;
+    transition: 1.2s;
+}
+.PersonClass9:hover{
+    padding-bottom: 50px;
+    scale: 1.2;
+    z-index: 5;
+} */
+
+@keyframes floatUP {
+    0% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+    100% { transform: translateY(0); }
+}
+.Welcome1{
+    padding-top: 20px;
+    margin: auto;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+}
+.DragonBird{
+    width: 60px;
+}
+.Aperson{
+    padding-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 10px;
+    gap: 10px;
+}
+#ABP{
+    display: flex;
+    width: 700px;
+    text-align: center;
+}
+
+.World-kayes-Page{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.K1{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.A-Kayes{
+    padding-top: 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+.WorldKayes1{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+.World-Name{
+    font-size: 40px;
+}
+.World-Name ion-icon {
+    padding-left: 20px;
+    font-size: 30px;
+    color: rgb(238, 255, 0);
+}
+.Kay-name{
+    width: 120px;
+    height: 150px;
+    filter: drop-shadow(1px 1px 2px yellow);
+    animation: floatUP 3s infinite ease-in-out;
+}
+.Biom-img{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
+.A-A-W{
+    display: flex;
+    gap: 8px;
+    flex-direction: column;align-items: center;
+}
+.Page2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.See-All-WorldKays {
+    width: 100px;
+    height: 100px;
+    font-size: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    padding: 12px;
+    border-radius: 90px;
+    border: 0px;
+    transition: 1.5s;
+}
+.See-All-WorldKays ion-icon{
+    font-size: 30px;
+    padding-top: 50px;
+    color: aqua;
+    position: absolute;
+     animation: rotateYAnimation 3s linear infinite;
+}
+@keyframes rotateYAnimation {
+    from {
+      transform: rotateY(0deg);
+    }
+    to {
+      transform: rotateY(360deg);
+    }
+  }
