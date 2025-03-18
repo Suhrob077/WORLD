@@ -4,7 +4,7 @@
     "category": "lv500-999",
     "name": "Carona Blood King",
     "description": "A powerful artifact infused with the blood of an ancient king.",
-    "image": "/public/IMGS/Artifacts/Carona Blood king lv-600.png",
+    "image": "/IMGS/Artifacts/Carona Blood king lv-600.png",
     "LVL": "lv-600"
   },
   {
@@ -12,7 +12,7 @@
     "category": "lv500-999",
     "name": "Dragon Ring",
     "description": "A mystical ring forged from dragon scales.",
-    "image": "/public/IMGS/Artifacts/Dragon-ring lv505.png",
+    "image": "/IMGS/Artifacts/Dragon-ring lv505.png",
     "LVL": "lv-505"
   },
   {
@@ -20,7 +20,7 @@
     "category": "lv200-500",
     "name": "Heart Crystal",
     "description": "A crystal pulsating with life energy.",
-    "image": "/public/IMGS/Artifacts/Heart-cristal-lv-200.png",
+    "image": "/IMGS/Artifacts/Heart-cristal-lv-200.png",
     "LVL": "lv-200"
   },
   {
@@ -28,7 +28,7 @@
     "category": "lv500-999",
     "name": "Ice and Fire",
     "description": "A relic containing the balance of elemental forces.",
-    "image": "/public/IMGS/Artifacts/Ice and Fire lv-650.png",
+    "image": "/IMGS/Artifacts/Ice and Fire lv-650.png",
     "LVL": "lv-650"
   },
   {
@@ -36,7 +36,7 @@
     "category": "lv1-200",
     "name": "Silver Ring",
     "description": "A simple yet elegant silver ring.",
-    "image": "/public/IMGS/Artifacts/Ive-C-lv-50.png",
+    "image": "/IMGS/Artifacts/Ive-C-lv-50.png",
     "LVL": "lv-50"
   },
   {
@@ -44,7 +44,7 @@
     "category": "lv500-999",
     "name": "GoldenSunRelic",
     "description": "A radiant artifact that glows with the power of the sun.",
-    "image": "/public/IMGS/Artifacts/L2-lv-700.png",
+    "image": "/IMGS/Artifacts/L2-lv-700.png",
     "LVL": "lv-700"
   },
   {
@@ -52,7 +52,7 @@
     "category": "lv500-999",
     "name": "Feather of Light",
     "description": "A celestial feather said to bring good fortune.",
-    "image": "/public/IMGS/Artifacts/L3--lv-666.png",
+    "image": "/IMGS/Artifacts/L3--lv-666.png",
     "LVL": "lv-666"
   },
   {
@@ -60,7 +60,7 @@
     "category": "lv200-500",
     "name": "Shadow Eye Pendant",
     "description": "A mysterious pendant that sees through darkness.",
-    "image": "/public/IMGS/Artifacts/lv-322.png",
+    "image": "/IMGS/Artifacts/lv-322.png",
     "LVL": "lv-322"
   },
   {
@@ -68,7 +68,7 @@
     "category": "lv200-500",
     "name": "S-Soul Orb",
     "description": "An orb containing the soul of a great summoner.",
-    "image": "/public/IMGS/Artifacts/Summoner Soul-lv-300.png",
+    "image": "/IMGS/Artifacts/Summoner Soul-lv-300.png",
     "LVL": "lv-300"
   },
   {
@@ -76,7 +76,7 @@
     "category": "lv200-500",
     "name": "Ring of Power",
     "description": "A ring that grants immense power to its wearer.",
-    "image": "/public/IMGS/Artifacts/Ring Power-lv333.png",
+    "image": "/IMGS/Artifacts/Ring Power-lv333.png",
     "LVL": "lv-333"
   },
   {
@@ -84,7 +84,7 @@
     "category": "lv1-200",
     "name": "Magic Crown",
     "description": "A crown imbued with magical energies.",
-    "image": "/public/IMGS/Artifacts/Magic-crovn lv-250.png",
+    "image": "/IMGS/Artifacts/Magic-crovn lv-250.png",
     "LVL": "lv-190"
   },
   {
@@ -92,7 +92,7 @@
     "category": "lv500-999",
     "name": "Platinum Defender",
     "description": "A ring offering supreme protection.",
-    "image": "/public/IMGS/Artifacts/Platinum DEF lv-180.png",
+    "image": "/IMGS/Artifacts/Platinum DEF lv-180.png",
     "LVL": "lv-180"
   },
   {
@@ -100,7 +100,7 @@
     "category": "lv200-500",
     "name": "Sunshine Amulet",
     "description": "An amulet radiating warmth and positivity.",
-    "image": "/public/IMGS/Artifacts/Sun-shine-lv-260.png",
+    "image": "/IMGS/Artifacts/Sun-shine-lv-260.png",
     "LVL": "lv-260"
   },
   {
@@ -108,7 +108,7 @@
     "category": "lv200-500",
     "name": "T-S_W",
     "description": "A talisman granting warrior's strength.",
-    "image": "/public/IMGS/Artifacts/Talisman Summoner Warior lv-300.png",
+    "image": "/IMGS/Artifacts/Talisman Summoner Warior lv-300.png",
     "LVL": "lv-300"
   },
   {
@@ -116,7 +116,7 @@
     "category": "lv200-500",
     "name": "Water Skill Orb",
     "description": "A water-infused artifact that enhances agility.",
-    "image": "/public/IMGS/Artifacts/Water-skill - lv-450.png",
+    "image": "/IMGS/Artifacts/Water-skill - lv-450.png",
     "LVL": "lv-450"
   }
 ]

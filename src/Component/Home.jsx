@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import React from 'react';
 import './Home.css';
 import P1 from './Personality/Asasin-Mage.png';
@@ -15,6 +15,20 @@ import worldData from '/public/Data/World.json';
 
 export default function Home() {
   const [showAll, setShowAll] = useState(false);
+  const [time, setTime] = useState("");
+  const [date, setDate] = useState("");
+
+  useEffect(() => {
+    const updateTime = () => {
+      const now = new Date();
+      const zeroPadding = (num, digit) => String(num).padStart(digit, "0");
+      setTime(`${zeroPadding(now.getHours(), 2)}:${zeroPadding(now.getMinutes(), 2)}:${zeroPadding(now.getSeconds(), 2)}`);
+      setDate(`${now.getFullYear()}-${zeroPadding(now.getMonth() + 1, 2)}-${zeroPadding(now.getDate(), 2)}`);
+    };
+    updateTime();
+    const interval = setInterval(updateTime, 1000);
+    return () => clearInterval(interval);
+  }, []);
 
   return (
     <div className='HomeP'>
@@ -23,7 +37,6 @@ export default function Home() {
         <div className='PersonalityPage'>
           <div className="Classes"><img className='PersonClass1' src={P1} alt="" /></div>
           <div className="Classes"><img className='PersonClass2' src={P2} alt="" /></div>
-          {/* <div className="Classes"><img className='PersonClass9' src={P9} alt="" /></div> */}
           <div className="Classes"><img className='PersonClass3' src={P3} alt="" /></div>
           <div className="Classes"><img className='PersonClass4' src={P6} alt="" /></div>
           <div className="Classes"><img className='PersonClass5' src={P4} alt="" /></div>
@@ -33,34 +46,32 @@ export default function Home() {
         </div>
         <div className='Aperson'>
           <h2>Z-World</h2>
-          <h2 id='ABP'>Ushbu Kalitlar 🔑Sizlarga nomalum ❔ Huduga Partal ochadi .U yerda siz buutunlay boshqa turdagi Material , Maxluq , va Artifactlar Ucharatishingiz mumkin 🎁. Kalitlrni esa topish Juda murakkab ❗❗❗</h2>
+          <h2 id='ABP'>Ushbu Kalitlar 🔑Sizlarga nomalum ❔ Huduga Partal ochadi .U yerda siz butunlay boshqa turdagi Material , Maxluq , va Artifactlar uchratishingiz mumkin 🎁. Kalitlarni esa topish juda murakkab ❗❗❗</h2>
         </div>
       </div>
       <div className="Page2">
         <div className="World-kayes-Page">
           <div className="A-Kayes">
-            {/* Dastlab faqat Fire Kay ko'rsatiladi */}
             {worldData.slice(0, 1).map((world) => (
               <div className="K1" key={world.id}>
                 <div className="WorldKayes1">
                   <div className="A-A-W">
                     <h1 className="World-Name">{world.Name}<ion-icon name="key-outline"></ion-icon></h1>
                     <h2>Boss Name --- {world.Boss}</h2>
-                    <h2> Tushish ehtimolligi-- {world.drop}</h2>
+                    <h2>Tushish ehtimolligi -- {world.drop}</h2>
                   </div>
                   <img className="Kay-name" src={world["img-Kay"]} alt={world.Name} />
                   <img className="Biom-img" src={world["img-biom"]} alt={world.Name} />
                 </div>
               </div>
             ))}
-            {/* Tugma bosilganda barcha kalitlar ko'rsatiladi */}
             {showAll && worldData.slice(1).map((world) => (
               <div className="K1" key={world.id}>
                 <div className="WorldKayes1">
                   <div className="A-A-W">
                     <h1 className="World-Name">{world.Name}<ion-icon name="key-outline"></ion-icon></h1>
                     <h2>Boss Name --- {world.Boss}</h2>
-                    <h2> Tushish ehtimolligi-- {world.drop}</h2>
+                    <h2>Tushish ehtimolligi -- {world.drop}</h2>
                   </div>
                   <img className="Kay-name" src={world["img-Kay"]} alt={world.Name} />
                   <img className="Biom-img" src={world["img-biom"]} alt={world.Name} />
@@ -72,6 +83,11 @@ export default function Home() {
         <button className="See-All-WorldKays" onClick={() => setShowAll(!showAll)}>
           {showAll ? "Hide" : "Open"}<ion-icon name="key-outline"></ion-icon>
         </button>
+      </div>
+      <div className="clock">
+        <p id="date">{date}</p>
+        <p id="time">{time}</p>
+        Ramid soat nechchi bulibdi Yoki Hamiddan Suraymi ??/
       </div>
     </div>
   );

@@ -189,6 +189,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding-bottom: 80px;
 }
 .See-All-WorldKays {
     width: 100px;
@@ -210,6 +211,37 @@
     position: absolute;
      animation: rotateYAnimation 3s linear infinite;
 }
+.clock {
+    margin: auto;
+    width: 200px;
+    top: 20px;
+    height: auto;
+    right: 20px;
+    padding: 30px 20px;
+    text-align: center;
+    color: white;
+    font-family: "Arial", sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+  }
+  
+  .clock p {
+    color: aqua;
+    text-shadow: 2px 2px 80px blue;
+    margin: 5px 0;
+  }
+  
+  #date {
+    font-size: 30px;
+    opacity: 0.8;
+  }
+  
+  #time {
+    font-size: 50px;
+    font-weight: bold;
+    letter-spacing: 2px;
+  }
+  
 @keyframes rotateYAnimation {
     from {
       transform: rotateY(0deg);
