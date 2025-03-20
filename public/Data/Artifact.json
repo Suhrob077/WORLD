@@ -90,9 +90,9 @@
   {
     "id": 12,
     "category": "lv500-999",
-    "name": "Platinum Defender",
+    "name": "Magican Defender",
     "description": "A ring offering supreme protection.",
-    "image": "/IMGS/Artifacts/Platinum DEF lv-180.png",
+    "image": "../IMGS/Artifacts/lv-900.png",
     "LVL": "lv-180"
   },
   {
@@ -118,5 +118,198 @@
     "description": "A water-infused artifact that enhances agility.",
     "image": "/IMGS/Artifacts/Water-skill - lv-450.png",
     "LVL": "lv-450"
+  },
+  {
+    "id": 19,
+    "category": "lv1-200",
+    "name": "unknown",
+    "description": "None",
+    "image": "../IMGS/Artifacts/lv-19.png",
+    "LVL": "lv-19"
+  },
+  {
+    "id": 20,
+    "category": "lv1-200",
+    "name": "unknown",
+    "description": "None",
+    "image": "../IMGS/Artifacts/lv-20.png",
+    "LVL": "lv-20"
+  },
+  {
+    "id": 45,
+    "category": "lv1-200",
+    "name": "unknown",
+    "description": "None",
+    "image": "../IMGS/Artifacts/lv-45.png",
+    "LVL": "lv-45"
+  },
+  {
+    "id": 80,
+    "category": "lv1-200",
+    "name": "unknown",
+    "description": "None",
+    "image": "../IMGS/Artifacts/lv-80.png",
+    "LVL": "lv-80"
+  },
+  {
+    "id": 90,
+    "category": "lv1-200",
+    "name": "unknown",
+    "description": "None",
+    "image": "../IMGS/Artifacts/lv-90.png",
+    "LVL": "lv-90"
+  },
+  {
+    "id": 100,
+    "category": "lv1-200",
+    "name": "unknown",
+    "description": "None",
+    "image": "../IMGS/Artifacts/lv-100.png",
+    "LVL": "lv-100"
+  },
+  {
+    "id": 120,
+    "category": "lv1-200",
+    "name": "unknown",
+    "description": "None",
+    "image": "../IMGS/Artifacts/lv-120.png",
+    "LVL": "lv-120"
+  },
+  {
+    "id": 129,
+    "category": "lv1-200",
+    "name": "unknown",
+    "description": "None",
+    "image": "../IMGS/Artifacts/lv-129.png",
+    "LVL": "lv-129"
+  },
+  {
+    "id": 140,
+    "category": "lv1-200",
+    "name": "unknown",
+    "description": "None",
+    "image": "../IMGS/Artifacts/Ring Mag-lv-140.png",
+    "LVL": "lv-140"
+  },
+  {
+    "id": 180,
+    "category": "lv1-200",
+    "name": "unknown",
+    "description": "None",
+    "image": "../IMGS/Artifacts/Platinum DEF lv-180.png",
+    "LVL": "lv-180"
+  },
+  {
+    "id": 189,
+    "category": "lv1-200",
+    "name": "unknown",
+    "description": "None",
+    "image": "../IMGS/Artifacts/lv-189.png",
+    "LVL": "lv-189"
+  },
+  {
+    "id": 200,
+    "category": "lv1-200",
+    "name": "unknown",
+    "description": "None",
+    "image": "../IMGS/Artifacts/lv-200.png",
+    "LVL": "lv-200"
+  },
+  {
+    "id": 190,
+    "category": "lv1-200",
+    "name": "unknown",
+    "description": "None",
+    "image": "../IMGS/Artifacts/Talisman lv-190.png",
+    "LVL": "lv-190"
+  },
+  {
+    "id": 250,
+    "category": "lv200-500",
+    "name": "unknown",
+    "description": "None",
+    "image": "../IMGS/Artifacts/Magic-crovn lv-250.png",
+    "LVL": "lv-250"
+  },
+  {
+    "id": 300,
+    "category": "lv200-500",
+    "name": "unknown",
+    "description": "None",
+    "image": "../IMGS/Artifacts/lv-300.png",
+    "LVL": "lv-300"
+  },
+  {
+    "id": 310,
+    "category": "lv200-500",
+    "name": "unknown",
+    "description": "None",
+    "image": "../IMGS/Artifacts/lv-310.png",
+    "LVL": "lv-"
+  },
+  {
+    "id": 322,
+    "category": "lv200-500",
+    "name": "unknown",
+    "description": "None",
+    "image": "../IMGS/Artifacts/lv-322.png",
+    "LVL": "lv-322"
+  },
+  {
+    "id": 399,
+    "category": "lv200-500",
+    "name": "unknown",
+    "description": "None",
+    "image": "../IMGS/Artifacts/lv-339.png",
+    "LVL": "lv-399"
+  },
+  {
+    "id": 359,
+    "category": "lv200-500",
+    "name": "unknown",
+    "description": "None",
+    "image": "../IMGS/Artifacts/lv-359.png",
+    "LVL": "lv-359"
+  },
+  {
+    "id": 369,
+    "category": "lv200-500",
+    "name": "unknown",
+    "description": "None",
+    "image": "../IMGS/Artifacts/lv-369.png",
+    "LVL": "lv-369"
+  },
+  {
+    "id": 410,
+    "category": "lv200-500",
+    "name": "unknown",
+    "description": "None",
+    "image": "../IMGS/Artifacts/lv-410.png",
+    "LVL": "lv-410"
+  },
+  {
+    "id": 420,
+    "category": "lv200-500",
+    "name": "unknown",
+    "description": "None",
+    "image": "../IMGS/Artifacts/Lv-420.png",
+    "LVL": "lv-420"
+  },
+  {
+    "id": 494,
+    "category": "lv200-500",
+    "name": "unknown",
+    "description": "None",
+    "image": "../IMGS/Artifacts/lv-494.png",
+    "LVL": "lv-494"
+  },
+  {
+    "id": 510,
+    "category": "lv500-999",
+    "name": "unknown",
+    "description": "None",
+    "image": "../IMGS/Artifacts/lv-510.png",
+    "LVL": "lv-510"
   }
+  
 ]
