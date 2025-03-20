@@ -124,7 +124,7 @@
     "category": "lv1-200",
     "name": "unknown",
     "description": "None",
-    "image": "../IMGS/Artifacts/lv-19.png",
+    "image": "/IMGS/Artifacts/lv-19.png",
     "LVL": "lv-19"
   },
   {
@@ -132,7 +132,7 @@
     "category": "lv1-200",
     "name": "unknown",
     "description": "None",
-    "image": "../IMGS/Artifacts/lv-20.png",
+    "image": "/IMGS/Artifacts/lv-20.png",
     "LVL": "lv-20"
   },
   {
@@ -140,7 +140,7 @@
     "category": "lv1-200",
     "name": "unknown",
     "description": "None",
-    "image": "../IMGS/Artifacts/lv-45.png",
+    "image": "/IMGS/Artifacts/lv-45.png",
     "LVL": "lv-45"
   },
   {
@@ -148,7 +148,7 @@
     "category": "lv1-200",
     "name": "unknown",
     "description": "None",
-    "image": "../IMGS/Artifacts/lv-80.png",
+    "image": "/IMGS/Artifacts/lv-80.png",
     "LVL": "lv-80"
   },
   {
@@ -156,7 +156,7 @@
     "category": "lv1-200",
     "name": "unknown",
     "description": "None",
-    "image": "../IMGS/Artifacts/lv-90.png",
+    "image": "/IMGS/Artifacts/lv-90.png",
     "LVL": "lv-90"
   },
   {
@@ -164,7 +164,7 @@
     "category": "lv1-200",
     "name": "unknown",
     "description": "None",
-    "image": "../IMGS/Artifacts/lv-100.png",
+    "image": "/IMGS/Artifacts/lv-100.png",
     "LVL": "lv-100"
   },
   {
@@ -172,7 +172,7 @@
     "category": "lv1-200",
     "name": "unknown",
     "description": "None",
-    "image": "../IMGS/Artifacts/lv-120.png",
+    "image": "/IMGS/Artifacts/lv-120.png",
     "LVL": "lv-120"
   },
   {
@@ -180,7 +180,7 @@
     "category": "lv1-200",
     "name": "unknown",
     "description": "None",
-    "image": "../IMGS/Artifacts/lv-129.png",
+    "image": "/IMGS/Artifacts/lv-129.png",
     "LVL": "lv-129"
   },
   {
@@ -188,7 +188,7 @@
     "category": "lv1-200",
     "name": "unknown",
     "description": "None",
-    "image": "../IMGS/Artifacts/Ring Mag-lv-140.png",
+    "image": "/IMGS/Artifacts/Ring Mag-lv-140.png",
     "LVL": "lv-140"
   },
   {
@@ -196,7 +196,7 @@
     "category": "lv1-200",
     "name": "unknown",
     "description": "None",
-    "image": "../IMGS/Artifacts/Platinum DEF lv-180.png",
+    "image": "/IMGS/Artifacts/Platinum DEF lv-180.png",
     "LVL": "lv-180"
   },
   {
@@ -204,7 +204,7 @@
     "category": "lv1-200",
     "name": "unknown",
     "description": "None",
-    "image": "../IMGS/Artifacts/lv-189.png",
+    "image": "/IMGS/Artifacts/lv-189.png",
     "LVL": "lv-189"
   },
   {
@@ -212,7 +212,7 @@
     "category": "lv1-200",
     "name": "unknown",
     "description": "None",
-    "image": "../IMGS/Artifacts/lv-200.png",
+    "image": "/IMGS/Artifacts/lv-200.png",
     "LVL": "lv-200"
   },
   {
@@ -220,7 +220,7 @@
     "category": "lv1-200",
     "name": "unknown",
     "description": "None",
-    "image": "../IMGS/Artifacts/Talisman lv-190.png",
+    "image": "/IMGS/Artifacts/Talisman lv-190.png",
     "LVL": "lv-190"
   },
   {
@@ -228,7 +228,7 @@
     "category": "lv200-500",
     "name": "unknown",
     "description": "None",
-    "image": "../IMGS/Artifacts/Magic-crovn lv-250.png",
+    "image": "/IMGS/Artifacts/Magic-crovn lv-250.png",
     "LVL": "lv-250"
   },
   {
@@ -236,7 +236,7 @@
     "category": "lv200-500",
     "name": "unknown",
     "description": "None",
-    "image": "../IMGS/Artifacts/lv-300.png",
+    "image": "/IMGS/Artifacts/lv-300.png",
     "LVL": "lv-300"
   },
   {
@@ -244,7 +244,7 @@
     "category": "lv200-500",
     "name": "unknown",
     "description": "None",
-    "image": "../IMGS/Artifacts/lv-310.png",
+    "image": "/IMGS/Artifacts/lv-310.png",
     "LVL": "lv-"
   },
   {
@@ -252,7 +252,7 @@
     "category": "lv200-500",
     "name": "unknown",
     "description": "None",
-    "image": "../IMGS/Artifacts/lv-322.png",
+    "image": "/IMGS/Artifacts/lv-322.png",
     "LVL": "lv-322"
   },
   {
@@ -260,7 +260,7 @@
     "category": "lv200-500",
     "name": "unknown",
     "description": "None",
-    "image": "../IMGS/Artifacts/lv-339.png",
+    "image": "/IMGS/Artifacts/lv-339.png",
     "LVL": "lv-399"
   },
   {
@@ -268,7 +268,7 @@
     "category": "lv200-500",
     "name": "unknown",
     "description": "None",
-    "image": "../IMGS/Artifacts/lv-359.png",
+    "image": "/IMGS/Artifacts/lv-359.png",
     "LVL": "lv-359"
   },
   {
@@ -276,7 +276,7 @@
     "category": "lv200-500",
     "name": "unknown",
     "description": "None",
-    "image": "../IMGS/Artifacts/lv-369.png",
+    "image": "/IMGS/Artifacts/lv-369.png",
     "LVL": "lv-369"
   },
   {
@@ -284,7 +284,7 @@
     "category": "lv200-500",
     "name": "unknown",
     "description": "None",
-    "image": "../IMGS/Artifacts/lv-410.png",
+    "image": "/IMGS/Artifacts/lv-410.png",
     "LVL": "lv-410"
   },
   {
@@ -292,7 +292,7 @@
     "category": "lv200-500",
     "name": "unknown",
     "description": "None",
-    "image": "../IMGS/Artifacts/Lv-420.png",
+    "image": "/IMGS/Artifacts/Lv-420.png",
     "LVL": "lv-420"
   },
   {
@@ -300,7 +300,7 @@
     "category": "lv200-500",
     "name": "unknown",
     "description": "None",
-    "image": "../IMGS/Artifacts/lv-494.png",
+    "image": "/IMGS/Artifacts/lv-494.png",
     "LVL": "lv-494"
   },
   {
@@ -308,7 +308,7 @@
     "category": "lv500-999",
     "name": "unknown",
     "description": "None",
-    "image": "../IMGS/Artifacts/lv-510.png",
+    "image": "/IMGS/Artifacts/lv-510.png",
     "LVL": "lv-510"
   }
   

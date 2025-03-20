@@ -3,8 +3,8 @@ import "./Navbar.css";
 import logo from "/public/IMGS/Dragon-logo.jpg";
 import Artifacts from "./Artifacts";
 import Weapons from "./Weapons";
-import Monsters from "./Monsters.jsx";
-import Materials from "./Materials.jsx";
+import Monsters from "./Monsters";
+import Materials from "./Materials";
 import Home from "./Home";
 
 export default function Navbar() {
