@@ -18,11 +18,13 @@
     align-items: center;
     justify-content: center;
     height: 100px;
+    
 }
 .PersonClass1{
     width: 250px;
     position: relative;
     transition: 1.2s;
+    pointer-events: auto;
 }
 .PersonClass1:hover{
     padding-bottom: 50px;
@@ -31,6 +33,7 @@
 }
 
 .PersonClass2{
+    pointer-events: auto;
     width: 100px;
     transition: 1.2s;
 }
@@ -40,6 +43,7 @@
     z-index: 5;
 }
 .PersonClass3{
+    pointer-events: auto;
     width: 110px;
     transition: 1.2s;
 }
@@ -49,6 +53,7 @@
     z-index: 5;
 }
 .PersonClass4{
+    pointer-events: auto;
     width: 120px;
     padding-bottom: 20px;
     transition: 1.2s;
@@ -59,6 +64,7 @@
     z-index: 5;
 }
 .PersonClass5{
+    pointer-events: auto;
     width: 140px;
     transition: 1.2s;
 }
@@ -68,6 +74,7 @@
     z-index: 5;
 }
 .PersonClass6{
+    pointer-events: auto;
     width: 130px;
     transition: 1.2s;
 }
@@ -77,6 +84,7 @@
     z-index: 5;
 }
 .PersonClass7{
+    pointer-events: auto;
     width: 250px;
     transition: 1.2s;
 }
@@ -86,6 +94,7 @@
     z-index: 5;
 }
 .PersonClass8{
+    pointer-events: auto;
     width: 130px;
     padding-bottom: 30px;
     transition: 1.2s;

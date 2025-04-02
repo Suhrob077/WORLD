@@ -1,0 +1,88 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.WeaponsHome{
+    width: 100%;
+    height: auto;
+    padding-bottom: 10px;
+}
+.S-weapons{
+    width: 100%;
+    align-items: center;
+    justify-content: space-evenly;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, auto));
+    gap: 10px; /* Oraliq */
+    padding-bottom: 50px;
+}
+h1{
+    width: auto;
+    font-size: 30px;
+    text-align: center;
+}
+h2{
+    width: 170px;
+    font-size: 15px;
+    text-align: center;
+}
+.Abought-Box-W{
+    height: 300px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}   
+
+#Grouply-Weapons{
+    border-radius: 20px;
+    border: none;
+    padding: 10px;
+    color: rgb(0, 255, 221);
+    text-shadow: 0 0 5px rgb(0, 255, 221), 0 0 10px rgb(0, 60, 255), 0 0 15px rgb(0, 255, 242);
+    font-weight: bold;
+}
+#Class-Weapons{
+    border-radius: 20px;
+    border: none;
+    padding: 10px;
+    color: rgb(0, 255, 221);
+    text-shadow: 0 0 5px rgb(0, 255, 221), 0 0 10px rgb(0, 60, 255), 0 0 15px rgb(0, 255, 242);
+    font-weight: bold;
+}
+#Many-Weapons{
+    border-radius: 20px;
+    border: none;
+    padding: 10px;
+    color: rgb(0, 255, 221);
+    text-shadow: 0 0 5px rgb(0, 255, 221), 0 0 10px rgb(0, 60, 255), 0 0 15px rgb(0, 255, 242);
+    font-weight: bold;
+}
+.glow-text {
+    color: yellow;
+    text-shadow: 0 0 5px yellow, 0 0 10px yellow, 0 0 15px yellow;
+    font-weight: bold;
+  }
+.W-img1{
+    width: 200px;
+    mix-blend-mode: lighten;
+    filter: brightness(150%) contrast(100%);    
+
+}
+@media (max-width: 768px){
+    .S-weapons {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr); /* 2 ta ustun */
+        grid-template-rows: auto auto; /* 2 ta qator */
+        gap: 10px;
+        justify-content: center;
+        align-items: center;
+      }
+      
+      .S-weapons div:nth-child(5) { /* 5-element markazda turishi uchun */
+        grid-column: 1 / span 2; /* 1-ustundan boshlanib 2-ustungacha egallaydi */
+        justify-self: center;
+      }
+      
+}
